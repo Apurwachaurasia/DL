@@ -1,3 +1,2 @@
-# DL
-Deep Learning in Agriculture
-Soil Moisture calculation of Roorkee 
+# Soil Moisture using satellite imagery 
+Roorkee
